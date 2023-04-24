@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="uft-8">
+        <link rel="stylesheet" type="text/css" href="main.css" midia="all">
+    </head>
+    <body>
+        <h1>Bem-vindo ao meu site de receitas!</h1>
+        <p>Aqui você encontrará uma variedade de receitas deliciosas para experimentar em casa. Desde pratos principais até sobremesas, nossas receitas são fáceis de seguir e perfeitas para qualquer ocasião. Além disso, cada receita inclui informações nutricionais para ajudá-lo a manter uma alimentação saudável. Explore nosso site e experimente nossas receitas hoje mesmo!</p>
+        <img src="bolo-de-cenoura.webp">
+
+        <table>
+            <tr>
+                <th>Receita</th>
+                <th>Tempo de praparoo</th>
+                <th>Ingredientes</th>
+            </tr>
+            <tr>
+                <td>Bolo de cenoura</td>
+                <td>45 minutos</td>
+                <td>farinha, ovos</td>
+            </tr>
+            <tr>
+                <td>bolo de jilo</td>
+                <td>3 anos</td>
+                <td>farinha, jilo</td>
+            </tr>
+            <tr>
+                <td>torta de limao siciliano</td>
+                <td>3 horas</td>
+                <td>limao, farinha</td>
+            </tr>
+        </table>
+        
+
+    </body>
+</html>
