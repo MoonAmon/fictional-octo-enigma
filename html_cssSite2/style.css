@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,800;0,900;1,500;1,700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+a:link, a:visited, a:hover{
+    color: white;
+}
+
+nav{
+    background-color: rgb(99, 93, 85);
+    text-align: right;
+    color: white;
+    padding: 10px;
+    word-spacing: 20px;
+    font: 40px;
+}
+
+header{
+
+}
+
+h1{
+    font-size: 40px;
+    padding: 20px;
+}
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+main{
+    padding: 50px;
+}
+
+
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.card{
+    background-color: #524e53;
+	width:;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px #645f66;
+}
+
+.img_card{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.card_content:p {
+    text-align: center;
+    display: inline-block;
+}
+
+.login{
+    margin-top: 40px;
+    
+    
+}
+
+label{
+    text-align: justify;
+}
+
+fieldset {
+	background-color: #9d9c9e;
+	width: 300px;
+	margin: 20px auto;
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 0 0 5px #695f6e;
+    display: block;
+    text-align: center;
+
+}
+
+#senha,#email{
+
+    padding: 30px;
+}
+
+input [type="button"]{
+    color: red;
+}
+
+footer{
+    background-color: #4f4e50;
+    padding: 20px;
+    text-align: center;
+}
+
