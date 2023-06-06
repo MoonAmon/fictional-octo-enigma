@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+}
+
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 20vh 70vh 10vh;
+
+}
+
+header{
+    background-color: rgb(99, 90, 78);
+    grid-column: 1/4;
+}
+
+
+nav{
+    background-color: rgb(247, 247, 59);
+    grid-column: 1/2;
+}
+
+main{
+    background-color: rgb(209, 164, 164);
+    grid-column: 2/3;
+}
+
+aside{
+    height: 100px;
+    background-color: rgb(231, 162, 59);
+    grid-column: 3/4;
+}
+
+footer{
+    background-color: blueviolet;
+    grid-column: 1/4;
+}
